@@ -1,0 +1,21 @@
+[
+  {
+    "source": [
+      "~/node_modules",
+      "~/package.json"
+    ],
+    "dist": [
+      "~/MyProject1",
+      "~/MyProject2",
+      "~/MyProject3"
+    ]
+  },
+  {
+    "source": [
+      "~/Gemfile"
+    ],
+    "dist": [
+      "~/MyProject3"
+    ]
+  }
+]
